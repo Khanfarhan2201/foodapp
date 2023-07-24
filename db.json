@@ -1,0 +1,88 @@
+{
+  "contacts": [
+    {
+      "name": "",
+      "email": "",
+      "id": 1
+    },
+    {
+      "fName": "",
+      "lName": "",
+      "email": "",
+      "mobile": "",
+      "id": 2
+    },
+    {
+      "fName": "farhan",
+      "lName": "khan",
+      "email": "farhan@gmail.com",
+      "mobile": "6307716885",
+      "id": 3
+    }
+  ],
+  "orders": [
+    {
+      "name": "Farhan Khan",
+      "mobile": "6307716885",
+      "address": "psit",
+      "id": 1
+    },
+    {
+      "name": "",
+      "mobile": "",
+      "address": "",
+      "id": 2
+    }
+  ],
+  "admin": [
+    {
+      "email": "farhan123@gmail.com",
+      "name": "Farhan Khan",
+      "password": "khanfarhan",
+      "id": 1
+    },
+    {
+      "email": "",
+      "name": "",
+      "password": "",
+      "id": 2
+    },
+    {
+      "email": "",
+      "name": "",
+      "password": "",
+      "id": 3
+    },
+    {
+      "email": "",
+      "name": "",
+      "password": "",
+      "id": 4
+    },
+    {
+      "email": "",
+      "name": "",
+      "password": "",
+      "id": 5
+    },
+    {
+      "email": "nizami@gmail.com",
+      "name": "farhan",
+      "password": "khanfarhan",
+      "id": 6
+    },
+    {
+      "email": "farhan123@gmail.com",
+      "name": "Farhan Khan",
+      "password": "khanfarhan",
+      "id": 7
+    },
+    {
+      "email": "farhan123@gmail.com",
+      "name": "farhan khan",
+      "password": "Khanfarhan@2",
+      "id": 8
+    }
+  ],
+  "admin-login": []
+}
